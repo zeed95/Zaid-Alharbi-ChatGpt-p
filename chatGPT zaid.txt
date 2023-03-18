@@ -1,0 +1,7 @@
+Project link for modification
+
+https://bubble.io/page?name=index&id=zeedgpt&tab=tabs-1
+
+
+Preview 
+https://zeedgpt.bubbleapps.io/version-test?debug_mode=true
